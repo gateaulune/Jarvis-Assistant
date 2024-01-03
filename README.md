@@ -34,7 +34,7 @@ Vous pouvez maintenant executer la commande suivante :
 
 `` python Jarvis.py ``
 
-Si vous souhaitez créer un fichier bash afin de cliquer sur une icon et éviter d'ouvrir un terminal a chaque fois :
+Si vous souhaitez créer un fichier bash afin de cliquer sur une icon et éviter d'ouvrir un terminal à chaque fois :
 
 - Créer un fichier bash (Windows : .bat / Linux : .sh)
 
